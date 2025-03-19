@@ -1,5 +1,5 @@
 {
-  "name": "astuto",
+  "name": "job-runner",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,7 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.3",
-    "express": "^4.21.2",
-    "jsonwebtoken": "^9.0.2"
+    "express": "^4.21.2"
   }
 }
